@@ -108,8 +108,6 @@ With these changes, I plan to start optimizing the design tomorrow before runnin
 Hours worked: **5**
 Total hours on project: **20**
 
-Here’s a more polished and engaging version of your text:
-
 ### Computational Fluid Dynamics
 
 With the latest changes in place, it was finally time to put the design through CFD analysis. Having never used CFD software before, I knew this would be a challenging process.
