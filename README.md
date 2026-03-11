@@ -33,8 +33,9 @@ As of writing this README, the printer is about 80% complete but still far below
 It was painful to call this project off, but it has been an invaluable learning experience. From V1 to V2, I made many improvements (and some regressions) to the design. The toolhead was by far the biggest success. With a larger budget, I’d rebuild the machine entirely from the ground up; however, that will be for the future
 
 Below are images of the printer:
+
 EOS V2:
-![EOS V2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/be24ea9fb23f3559b88b2dc31840b84e4cd40c52_image.png)
+![EOS V2](https://cdn.hackclub.com/019cd879-6193-7095-8d03-0c47acdee47c/image.png)
 
 EOS V1:
-![EOS V1](https://camo.githubusercontent.com/f538dd99627cdceba7114730f144da8606b5b9d965f5b19317c9dfd64dec6732/68747470733a2f2f68632d63646e2e68656c312e796f75722d6f626a65637473746f726167652e636f6d2f732f76332f393563306336393562343262366265313264303866366231653631333262333937626436316637665f696d6167652e706e67)
+![EOS V1](https://cdn.hackclub.com/019c5ace-4b53-79be-ad22-a5185651ff31/fd126409a3874a5b7fc16f55c6bd4d3ca9707a52_screenshot_2025-02-24_at_10.16.00___pm.png)
